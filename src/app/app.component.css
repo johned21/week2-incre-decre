@@ -1,0 +1,16 @@
+.container {
+    text-align: center;
+}
+
+h1 {
+    color: rgb(6, 168, 168);
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2 {
+    margin-top: 2rem;
+    color: rgb(0, 36, 95);
+    font-size: 22px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
